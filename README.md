@@ -11,3 +11,5 @@
 *4.Fast Real Time Corner Detection
 
 *5.User Interface Using Qt Design from camera my laptop
+
+*Morphology Profile and Support Vector Machine (SVM)
