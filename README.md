@@ -13,3 +13,5 @@
 *5.User Interface Using Qt Design from camera my laptop
 
 *Morphology Profile and Support Vector Machine (SVM)
+
+*Morphology measurement
